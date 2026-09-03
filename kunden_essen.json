@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Anna",
+    "alter": 34,
+    "stadt": "Essen"
+  },
+  {
+    "name": "Clara",
+    "alter": 45,
+    "stadt": "Essen"
+  },
+  {
+    "name": "Eva",
+    "alter": 52,
+    "stadt": "Essen"
+  },
+  {
+    "name": "Hannes",
+    "alter": 61,
+    "stadt": "Essen"
+  }
+]

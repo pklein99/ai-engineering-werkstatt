@@ -1,0 +1,12 @@
+[
+  {"name": "Anna", "alter": 34, "stadt": "Essen"},
+  {"name": "Ben", "alter": 21, "stadt": "Köln"},
+  {"name": "Clara", "alter": 45, "stadt": "Essen"},
+  {"name": "David", "alter": 29, "stadt": "München"},
+  {"name": "Eva", "alter": 52, "stadt": "Essen"},
+  {"name": "Finn", "alter": 19, "stadt": "Berlin"},
+  {"name": "Greta", "alter": 38, "stadt": "Köln"},
+  {"name": "Hannes", "alter": 61, "stadt": "Essen"},
+  {"name": "Ida", "alter": 27, "stadt": "München"},
+  {"name": "Jonas", "alter": 33, "stadt": "Berlin"}
+]
